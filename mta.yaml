@@ -2,3 +2,8 @@ _schema-version: '2.0'
 ID: live5
 description: Twitter Sentimental Analysis
 version: 0.0.1
+
+modules:
+ - name: uidev
+   type: html5
+   path: uidev
